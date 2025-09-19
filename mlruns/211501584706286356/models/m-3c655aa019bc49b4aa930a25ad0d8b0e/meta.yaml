@@ -1,0 +1,10 @@
+artifact_location: file:///Users/veenu/Projects/MLOps/credit-scoring-mlflow/mlruns/211501584706286356/models/m-3c655aa019bc49b4aa930a25ad0d8b0e/artifacts
+creation_timestamp: 1758116949833
+experiment_id: '211501584706286356'
+last_updated_timestamp: 1758116953876
+model_id: m-3c655aa019bc49b4aa930a25ad0d8b0e
+model_type: null
+name: model
+source_run_id: 9bc265175941418cb269c5ff9786d7b6
+status: 2
+status_message: null

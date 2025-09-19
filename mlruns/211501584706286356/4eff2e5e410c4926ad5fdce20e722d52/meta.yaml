@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/veenu/Projects/MLOps/credit-scoring-mlflow/mlruns/211501584706286356/4eff2e5e410c4926ad5fdce20e722d52/artifacts
+deleted_time: 1758116935671
+end_time: 1758116818437
+entry_point_name: ''
+experiment_id: '211501584706286356'
+lifecycle_stage: deleted
+run_id: 4eff2e5e410c4926ad5fdce20e722d52
+run_name: credit_score
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758116818410
+status: 3
+tags: []
+user_id: veenu

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/veenu/Projects/MLOps/credit-scoring-mlflow/mlruns/211501584706286356/9bc265175941418cb269c5ff9786d7b6/artifacts
+end_time: 1758116953884
+entry_point_name: ''
+experiment_id: '211501584706286356'
+lifecycle_stage: active
+run_id: 9bc265175941418cb269c5ff9786d7b6
+run_name: logreg_training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758116949759
+status: 3
+tags: []
+user_id: veenu

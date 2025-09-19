@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/veenu/Projects/MLOps/credit-scoring-mlflow/mlruns/211501584706286356/7051ef47834b458db1277cfc9eca660f/artifacts
+deleted_time: 1758116698795
+end_time: 1758116523185
+entry_point_name: ''
+experiment_id: '211501584706286356'
+lifecycle_stage: deleted
+run_id: 7051ef47834b458db1277cfc9eca660f
+run_name: vaunted-quail-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758116523128
+status: 3
+tags: []
+user_id: veenu

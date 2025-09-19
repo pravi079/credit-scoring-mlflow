@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/veenu/Projects/MLOps/credit-scoring-mlflow/mlruns/211501584706286356/2f69e50571ed402aa6899ca385c1f949/artifacts
+deleted_time: 1758116698769
+end_time: 1758115861694
+entry_point_name: ''
+experiment_id: '211501584706286356'
+lifecycle_stage: deleted
+run_id: 2f69e50571ed402aa6899ca385c1f949
+run_name: handsome-mink-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758115856171
+status: 3
+tags: []
+user_id: veenu

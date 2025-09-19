@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4263f641856c4a829195c64f276a5390/artifacts
+end_time: 1758116110297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4263f641856c4a829195c64f276a5390
+run_name: casual-crane-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758116110267
+status: 3
+tags: []
+user_id: veenu

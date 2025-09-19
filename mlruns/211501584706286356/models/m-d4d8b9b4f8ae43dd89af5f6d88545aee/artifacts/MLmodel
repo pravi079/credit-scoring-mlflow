@@ -1,0 +1,22 @@
+artifact_path: file:///Users/veenu/Projects/MLOps/credit-scoring-mlflow/mlruns/211501584706286356/models/m-d4d8b9b4f8ae43dd89af5f6d88545aee/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-d4d8b9b4f8ae43dd89af5f6d88545aee
+model_size_bytes: 4417
+model_uuid: m-d4d8b9b4f8ae43dd89af5f6d88545aee
+prompts: null
+run_id: 2f69e50571ed402aa6899ca385c1f949
+utc_time_created: '2025-09-17 13:30:56.261450'
